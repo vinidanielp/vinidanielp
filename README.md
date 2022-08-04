@@ -28,3 +28,10 @@
  
  ![Snake animation](https://github.com/vinidanielp/vinidanielp/blob/output/github-contribution-grid-snake.svg)
 
+  <div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{vinidanielp}/count.svg" /></p> 
+  <br>
+</div>
+
