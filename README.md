@@ -26,5 +26,5 @@
   <img align="center" alt="Vini-Oracle" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 </div>
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/vinidanielp/vinidanielp/blob/output/github-contribution-grid-snake.svg)
 
